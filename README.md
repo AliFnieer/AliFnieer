@@ -15,7 +15,7 @@ I'm **Ali Fnier**, a passionate **Software Engineer** who enjoys transforming id
 I specialize in **building full-stack and mobile systems** that connect software with hardware — always striving for clean architecture, scalability, and seamless user experience.
 
 - 🎓 Graduated in **Computer Engineering Technology** from *College of Engineering Technology – Janzour*  
-- 💼 **Freelance Developer**, experienced in **Flutter**, **Node.js**, **Express.js**, **React**, **MongoDB**, and **PostgreSQL**  
+- 💼 **Self-Employed Developer**, experienced in **Flutter**, **Node.js**, **Express.js**, **React**, **MongoDB**, and **PostgreSQL**  
 - 🔬 Exploring **Artificial Intelligence** and **Cybersecurity** (Digital Forensics & Cybercrime Investigation)  
 - ⚙️ Skilled in **Software Architecture, API Development, and SDLC**  
 - 🌍 Based in **Tripoli, Libya**  
@@ -54,7 +54,7 @@ I specialize in **building full-stack and mobile systems** that connect software
 A hybrid **inventory management solution** combining a web dashboard with an Android handheld app.  
 - Integrated **UHF RFID** for real-time tag scanning  
 - Offline capability using **Room & SQLite**  
-- Stack: *Node.js • Express.js • MongoDB • Flutter*
+- Stack: *Node.js • Express.js • MongoDB • Java*
 
 #### 🌐 **Other Works**
 - Developed full-stack web apps using **React**, **Node.js**, and **PostgreSQL**  
