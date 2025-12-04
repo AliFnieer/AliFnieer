@@ -54,7 +54,7 @@ I specialize in **building full-stack and mobile systems** that connect software
 A hybrid **inventory management solution** combining a web dashboard with an Android handheld app.  
 - Integrated **UHF RFID** for real-time tag scanning  
 - Offline capability using **Room & SQLite**  
-- Stack: *Node.js • Express.js • MongoDB • Java*
+- Stack: *Node.js • Express.js • PostgreSQL • React • Java*
 
 #### 🌐 **Other Works**
 - Developed full-stack web apps using **React**, **Node.js**, and **PostgreSQL**  
