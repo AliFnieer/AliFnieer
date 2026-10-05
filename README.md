@@ -1,81 +1,64 @@
 <!-- 💫 Welcome Section -->
 <h1 align="center">Hi there, I'm <a href="#">Ali Fnier</a> 👋</h1>
-<h3 align="center">💻 Software Engineer | Full-Stack & Mobile Developer</h3>
+<h3 align="center">💻 Full-Stack Developer @ <a href="https://giga.ly" target="_blank">Giga.LTD</a></h3>
 
 <p align="center">
   <a href="https://github.com/AliFnieer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=450&lines=Turning+ideas+into+real-world+software;Building+cross-platform+systems;Integrating+software+with+hardware;Always+learning+and+improving+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=480&lines=Building+modern+web+products;Crafting+scalable+backend+systems;Turning+ideas+into+real-world+solutions" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-I'm **Ali Fnier**, a passionate **Software Engineer** who enjoys transforming ideas into practical, real-world solutions.  
-I specialize in **building full-stack and mobile systems** that connect software with hardware — always striving for clean architecture, scalability, and seamless user experience.
+### 👨‍💻 About Me
+I'm **Ali Fnier**, a passionate **Full-Stack Developer** currently working full-time at **Giga.LTD**. I build modern web applications and backend systems for **Giga.ly**, with a focus on performance, clean architecture, and smooth user experience.
 
-- 🎓 Graduated in **Computer Engineering Technology** from *College of Engineering Technology – Janzour*  
-- 💼 **Self-Employed Developer**, experienced in **Flutter**, **Node.js**, **Express.js**, **React**, **MongoDB**, and **PostgreSQL**  
-- 🔬 Exploring **Artificial Intelligence** and **Cybersecurity** (Digital Forensics & Cybercrime Investigation)  
-- ⚙️ Skilled in **Software Architecture, API Development, and SDLC**  
-- 🌍 Based in **Tripoli, Libya**  
+- 💼 Currently working as a **Full-Stack Developer** at **Giga.LTD**
+- 🌐 Contributing to products and systems for **Giga.ly**
+- 🧩 Interested in **web development, APIs, scalable systems, and product engineering**
+- ⚙️ Skilled in **Node.js, Express.js, React, TypeScript, Go, Gin, PostgreSQL, MongoDB, and Flutter**
+- 🌍 Based in **Tripoli, Libya**
 
-> 🧠 *"I believe great software combines technical precision with creativity and empathy for the user."*
+> 🧠 *"Great software is not only functional — it should be reliable, efficient, and enjoyable to use."*
 
 ---
 
-### 🧰 Tech Stack  
+### 🧰 Tech Stack
 
-#### 🚀 Languages & Frameworks  
+#### 🚀 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,react,nodejs,express,redux,php,python,cpp,cs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,go,flutter,dart,php,python,cpp,cs&perline=6" />
 </p>
 
-#### 🗄️ Databases  
+#### 🧪 Backend & API Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,prisma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=gin,prisma,postgres,mongodb,redis,rest&perline=6" />
 </p>
 
-#### 🎨 UI & Styling  
+#### 🎨 UI & Styling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=tailwind,figma,html,css&perline=5" />
 </p>
 
-#### ⚙️ Tools & Platforms  
+#### ⚙️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,firebase,jest&perline=6" />
 </p>
 
----
-
-### 💼 Featured Projects  
-
-#### 📦 **Invent System**
-A hybrid **inventory management solution** combining a web dashboard with an Android handheld app.  
-- Integrated **UHF RFID** for real-time tag scanning  
-- Offline capability using **Room & SQLite**  
-- Stack: *Node.js • Express.js • PostgreSQL • React • Java*
-
-#### 🌐 **Other Works**
-- Developed full-stack web apps using **React**, **Node.js**, and **PostgreSQL**  
-- Built **Flutter** apps with **Riverpod** and **Firebase**  
-- Designed and documented APIs with **Axios**, **REST**, and **Postman**
+> Also working with **Gin** for Go-based backend development and API services.
 
 ---
 
-### 🧠 Core Competencies  
-✅ Software Development Life Cycle (SDLC)  
-✅ REST API Development & Testing  
-✅ Object-Oriented Programming (OOP)  
-✅ Database Design & Optimization  
-✅ State Management (Riverpod / Redux)  
-✅ Software Documentation  
-✅ UI/UX and Responsive Design  
-✅ Information Security Principles  
+### 💼 What I Do
+- Build **full-stack web applications** with modern architecture and maintainable code
+- Develop **REST APIs** and scalable backend services
+- Create **responsive frontend interfaces** and smooth user experiences
+- Work with **databases, integrations, and system optimization**
+- Collaborate on real-world software products for business and user needs
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-fnier-0a6066200" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -90,6 +73,6 @@ A hybrid **inventory management solution** combining a web dashboard with an And
 
 ---
 
-### ✨ Quote  
+### ✨ Quote
 > "_Great software doesn’t just work — it connects, empowers, and inspires._"  
 > — **Ali Fnier**
