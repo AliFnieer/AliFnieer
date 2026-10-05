@@ -1,6 +1,6 @@
 <!-- 💫 Welcome Section -->
 <h1 align="center">Hi there, I'm <a href="#">Ali Fnier</a> 👋</h1>
-<h3 align="center">💻 Full-Stack Developer @ <a href="https://giga.ly" target="_blank">Giga.LTD</a></h3>
+<h3 align="center">💻 Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/AliFnieer">
