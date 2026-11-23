@@ -161,13 +161,13 @@ open_to:     [Collaborations, Interesting Projects, Good Conversations]
 
 ## 📂 Featured Projects
 
-<!-- Replace the placeholders with your real projects -->
-
 | Project | What it does | Tech |
 |---|---|---|
-| **[Project name](https://github.com/AliFnieer/repo-name)** | One sentence on what it does and why it matters | `TypeScript` `React` `Node.js` |
-| **[Project name](https://github.com/AliFnieer/repo-name)** | One sentence on what it does and why it matters | `Go` `Gin` `PostgreSQL` |
-| **[Project name](https://github.com/AliFnieer/repo-name)** | One sentence on what it does and why it matters | `Flutter` `Firebase` |
+| **[Needly Mobile](https://github.com/AliFnieer/needly-mobile)** | A cross-platform app for real-time shared shopping lists and household coordination. | `React Native` `Expo` `TypeScript` |
+| **[Needly Backend](https://github.com/AliFnieer/needly-backend)** | A Go backend that powers instant synchronization and collaborative shopping list management. | `Go` |
+| **[Vaultix Backend](https://github.com/AliFnieer/vaultix-backend)** | A secure secrets and password vault backend with encryption, JWT authentication, RBAC, and audit logging. | `Go` `Gin` `MongoDB` |
+| **[Vaultix Mobile](https://github.com/AliFnieer/vaultix-mobile)** | A cross-platform password manager with TOTP generation and encrypted on-device storage. | `Flutter` `Dart` |
+| **[Morph](https://github.com/AliFnieer/morph)** | A privacy-focused, offline file conversion CLI that processes files without uploading them. | `Go` |
 
 <!-- Optional: live project cards. Replace REPO_NAME with real repo names, then remove the comment markers.
 <p align="center">
