@@ -28,6 +28,7 @@
   <a href="#-about-me">About</a> ·
   <a href="#-how-i-work">How I Work</a> ·
   <a href="#-tech-stack">Stack</a> ·
+  <a href="#-skills--toolkit">Skills</a> ·
   <a href="#-featured-projects">Projects</a> ·
   <a href="#-contribution-universe">Universe</a> ·
   <a href="#-lets-connect">Contact</a>
@@ -44,7 +45,7 @@
 <br />
 
 - **Role:** Full-Stack Developer at **Giga.LTD**, building products for **Giga.ly**
-- **Core stack:** TypeScript, Node.js (Express, Nest), React, Go (Gin), PostgreSQL, MongoDB, Flutter
+- **Core stack:** TypeScript, Node.js (Express, Nest), React, Go (Gin), Laravel, PostgreSQL, MySQL, MongoDB, Flutter
 - **Strengths:** clean architecture, performance, and end-to-end product delivery
 - **Location:** Tripoli, Libya
 - **Reach me:** [ali.fnier.dev@gmail.com](mailto:ali.fnier.dev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ali-fnier-0a6066200)
@@ -121,11 +122,13 @@ open_to:     [Collaborations, Interesting Projects, Good Conversations]
 <h4>Backend & Databases</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="45" height="45"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" alt="Gin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
 </p>
 
 <h4>UI & Design</h4>
@@ -145,6 +148,22 @@ open_to:     [Collaborations, Interesting Projects, Good Conversations]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="45" height="45"/>
 </p>
+
+---
+
+## 🧩 Skills & Toolkit
+
+**Languages:** JavaScript · TypeScript · Python · PHP · Go · Dart · SQL
+
+**Frontend & Mobile:** React.js · React Native · Redux · Tailwind CSS · React Query · Flutter
+
+**Backend & APIs:** Node.js · Express.js · Django · Laravel · Gin · RESTful APIs · JWT · MVC Architecture · SDD · OpenAPI / Swagger · API Contracts
+
+**Databases & ORM:** PostgreSQL · MySQL · MongoDB · SQLite · Room · Prisma ORM
+
+**Tools & Practices:** Git · GitHub · Code Review · Jest · API Testing · Debugging · Agile · Offline-First Systems · RFID Hardware Integration · Firebase · Linux · LLM Integration · Claude Code · Prompt Engineering
+
+**DevOps & CI/CD:** Docker · CI/CD Pipelines · GitHub Actions · Postman
 
 ---
 
